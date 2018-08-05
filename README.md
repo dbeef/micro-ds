@@ -1,7 +1,6 @@
 # micro-ds
 Capture audio on your NDS and send it to the PC via WIFI
 
-<p align=center>
 [![Youtube](https://img.youtube.com/vi/GOZne7amyPI/0.jpg)](https://www.youtube.com/watch?v=GOZne7amyPI)
 
 <h2 align="center">Dependencies</h2>
